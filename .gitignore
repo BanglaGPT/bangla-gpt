@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 src/Data/*
+src/out/*
 
 # C extensions
 *.so
