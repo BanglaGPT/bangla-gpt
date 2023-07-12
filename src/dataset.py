@@ -1,10 +1,20 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jul  8 17:18:10 2023
+COPYRIGHT NOTICE
 
-@author: pavel
+    Copyright (c) 2023, Shamim Ahamed
+
+This file is part of BangaGPT Project.
+
+BangaGPT is free software: you can redistribute it and/or modify it under the 
+terms of the  Attribution-NonCommercial-ShareAlike 4.0  International License
+
+You should have received a copy of the License along with 'bangla-tokenizer' 
+project, if not  Please visit https://github.com/BanglaGPT/bangla-gpt.
+
 """
+
 
 from torch.utils.data import Dataset
 from datasets import load_dataset
